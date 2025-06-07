@@ -1,0 +1,6 @@
+- image_find and download ---- miniimagenet,and you need to rename the dataset,use image_rename.ipynb
+- similarity_ver3         ---- similarity verification for new index
+- similarity_multi_models ---- two other models to verify similarity
+- K-means                 ---- K-means verification for new index
+- difference              ---- find the most important channels
+- test_decon              ---- deconvolution for those channels
