@@ -4,3 +4,4 @@
 - K-means                 ---- K-means verification for new index
 - difference              ---- find the most important channels
 - test_decon              ---- deconvolution for those channels
+- eassy                   ---- baidu disk
